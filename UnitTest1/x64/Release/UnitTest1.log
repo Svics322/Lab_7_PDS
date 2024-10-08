@@ -1,0 +1,12 @@
+﻿  UnitTest1.cpp
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\GraphAdding.cpp(22,34): warning C4244: 'argument': conversion from 'uint64_t' to 'unsigned int', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\GraphAddInstr.cpp(56,71): warning C4018: '>': signed/unsigned mismatch
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\GraphAddInstr.cpp(69,23): warning C4244: 'initializing': conversion from 'double' to 'uint64_t', possible loss of data
+C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\GraphAddInstr.cpp(92,24): warning C4018: '<': signed/unsigned mismatch
+     Creating library C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\x64\Release\UnitTest1.lib and object C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\x64\Release\UnitTest1.exp
+  Generating code
+  7 of 1528 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    4 functions were new in current compilation
+    16 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  UnitTest1.vcxproj -> C:\Users\ahieo\OneDrive\Робочий стіл\ПК-51\ПДС\Лаб_7\Source\Lab7\x64\Release\UnitTest1.dll
